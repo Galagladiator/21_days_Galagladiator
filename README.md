@@ -1,4 +1,4 @@
-# 21_days_Parsh
+# 21_days_Parsh_Gala
 
 Parsh Gala.
 TYBMS, KJ Somaiya College of Arts and Commerce.
