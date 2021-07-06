@@ -1,3 +1,3 @@
-# 21_days_Galagladiator
+# 21_days_Parsh
 Beginner level.
 
