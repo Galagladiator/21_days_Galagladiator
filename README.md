@@ -10,3 +10,6 @@ Day 1: 25 mins of youtube video (freeCodeCamp 4 hours video.) learning about pyt
 
 
 Day 2: Total 38 mins of the above video. Learned about strings, used and practiced functions like replace, index, \n. I am out today hence very lil study.
+
+
+Day 3: Total 53 mins of the above video. Learned many mathematical functions related to numbers. Understood the input function as well.
