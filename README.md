@@ -16,3 +16,6 @@ Day 3: Total 53 mins of the above video. Learned many mathematical functions rel
 
 
 Day 4: Completed 1/4th+ of the above 4 hour video. Learned and practiced writing a code for a basic calculator and a mad libs game.
+
+
+Day 5: learned about lists in python.
