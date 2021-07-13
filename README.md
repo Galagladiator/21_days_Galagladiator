@@ -22,3 +22,6 @@ Day 5: learned about lists in python.
 
 
 Day 6: completed 1hour:16mins of the video. Leanred about lists and several functions of that.
+
+
+Day 7 (pt1): 1½ hour completed from the video.
