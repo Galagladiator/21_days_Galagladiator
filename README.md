@@ -21,7 +21,10 @@ Day 4: Completed 1/4th+ of the above 4 hour video. Learned and practiced writing
 Day 5: learned about lists in python.
 
 
-Day 6: completed 1hour:16mins of the video. Leanred about lists and several functions of that.
+Day 6: completed 1hour:16mins of the video. Learned about lists and several functions of that.
 
 
-Day 7 (pt1): 1½ hour completed from the video.
+Day 7: 1½ hour completed from the video.
+
+
+Day 8: 1hour:48 mins. Learned about if statements, also defining functions.
