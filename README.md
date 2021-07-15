@@ -28,3 +28,6 @@ Day 7: 1½ hour completed from the video.
 
 
 Day 8: 1hour:48 mins. Learned about if statements, also defining functions.
+
+
+Day 9: 1hour: 55 mins of the video. Learned and practiced with basic IF statements.
