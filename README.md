@@ -31,3 +31,6 @@ Day 8: 1hour:48 mins. Learned about if statements, also defining functions.
 
 
 Day 9: 1hour: 55 mins of the video. Learned and practiced with basic IF statements.
+
+
+Day 10: 2hours: 08 mins of the video. Learned about if statements and comparisons. Practiced making a bit advance calculator
