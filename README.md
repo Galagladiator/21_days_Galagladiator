@@ -34,3 +34,6 @@ Day 9: 1hour: 55 mins of the video. Learned and practiced with basic IF statemen
 
 
 Day 10: 2hours: 08 mins of the video. Learned about if statements and comparisons. Practiced making a bit advance calculator
+
+
+Day 11: learned about dictionary in python. Going slow till now as I was busy past few days. From tommorow will start devoting more time !
