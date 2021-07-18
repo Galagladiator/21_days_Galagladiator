@@ -37,3 +37,6 @@ Day 10: 2hours: 08 mins of the video. Learned about if statements and comparison
 
 
 Day 11: learned about dictionary in python. Going slow till now as I was busy past few days. From tommorow will start devoting more time !
+
+
+Day 12: 2hrs : 32 mins of the video done. Practiced making a guessing game. Tried making a pass/fail marks report on my own. Built myself a basic one!
