@@ -46,3 +46,6 @@ Day 13: 2:41 of the video done. Learned about for loop. Also started learning ab
 
 
 Day 14: Learned about the 2D lists in python. 2 hours 52 mins of the video done. Built a report card in which user inputs marks and it calculated percentage and gives whether the user is pass or fail based on the total percentage.
+
+
+Day 15: revised and practiced some basic python coding projects.
