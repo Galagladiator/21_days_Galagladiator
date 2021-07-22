@@ -49,3 +49,6 @@ Day 14: Learned about the 2D lists in python. 2 hours 52 mins of the video done.
 
 
 Day 15: revised and practiced some basic python coding projects.
+
+
+Day 16: learned about comments and also try except.
