@@ -52,3 +52,6 @@ Day 15: revised and practiced some basic python coding projects.
 
 
 Day 16: learned about comments and also try except.
+
+
+Day 17: learned about read file.
