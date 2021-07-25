@@ -55,3 +55,6 @@ Day 16: learned about comments and also try except.
 
 
 Day 17: learned about read file.
+
+
+Day 18: sorry I forgot to update yesterday. I learned about numpy.
