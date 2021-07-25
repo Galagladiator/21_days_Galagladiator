@@ -58,3 +58,6 @@ Day 17: learned about read file.
 
 
 Day 18: sorry I forgot to update yesterday. I learned about numpy.
+
+
+Day 19: Watched some of the numpy video.
